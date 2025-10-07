@@ -1,16 +1,35 @@
-## Hello my name is Sam Shaw and I am a Business Intelligence Analyst 
+## Hello, I'm Sam Shaw
 
-<!--
-**MrFunky11/MrFunky11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Business Intelligence Analyst** with experience transforming complex datasets into actionable insights. My work focuses on using data to guide strategic decisions, enhance performance, and uncover business opportunities. I’ve completed several analytics projects through **TripleTen**, where I applied SQL, Tableau, Power BI, and spreadsheet modeling to real-world business scenarios.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Core Skills
+- **SQL:** Data extraction, cleaning, and transformation (MySQL)
+- **Business Intelligence Tools:** Tableau, Power BI (data modeling, DAX, visualization)
+- **Data Analysis:** Excel & Google Sheets (advanced formulas, dashboards, pivot tables)
+- **Reporting & Insight Development:** Turning raw data into meaningful stories for stakeholders
+
+---
+
+### 📊 A Few of My Projects
+- **E-Commerce Sales Performance Dashboard** — Designed a Tableau dashboard analyzing regional sales KPIs, customer behavior, and profitability trends.  
+- **Marketing Campaign Effectiveness Analysis** — Built a Power BI report using SQL queries to track ROI, cost efficiency, and audience engagement metrics.  
+- **Customer Retention Study** — Conducted a churn analysis using spreadsheet-based data modeling to identify retention opportunities.
+
+---
+
+### 🧠 Currently 
+- Advancing my skills in SQL by practicing queries
+- Enhancing storytelling through data visualization best practices
+
+---
+
+### 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/samuelpshaw/) 
+- 🌐 [Portfolio](https://github.com/MrFunky11/Data_projects)
+
+---
+
+
+
