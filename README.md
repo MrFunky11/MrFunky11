@@ -12,13 +12,6 @@ I’m a **Business Intelligence Analyst** with experience transforming complex d
 
 ---
 
-### 📊 A Few of My Projects
-- **E-Commerce Sales Performance Dashboard** — Designed a Tableau dashboard analyzing regional sales KPIs, customer behavior, and profitability trends.  
-- **Marketing Campaign Effectiveness Analysis** — Built a Power BI report using SQL queries to track ROI, cost efficiency, and audience engagement metrics.  
-- **Customer Retention Study** — Conducted a churn analysis using spreadsheet-based data modeling to identify retention opportunities.
-
----
-
 ### 🧠 Currently 
 - Advancing my skills in SQL by practicing queries
 - Enhancing storytelling through data visualization best practices
